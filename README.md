@@ -15,7 +15,7 @@
 ![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
 
 
-## 📫 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarushi-tandon-bb6351332" target="_blank">
