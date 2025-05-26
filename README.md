@@ -10,8 +10,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
+![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushitandon0&layout=compact&theme=radical) 
+
+---
 
 ## Connect with me
 
