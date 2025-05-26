@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
 </p>
-## 
+
 
 ![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
 
