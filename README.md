@@ -14,6 +14,14 @@
 
 ![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
 
+
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aarushi-tandon-bb6351332" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+</p>
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
