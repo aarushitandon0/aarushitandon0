@@ -1,4 +1,4 @@
-## Hi there I am Aarushi Tandon 👋
+## Hey there I am Aarushi Tandon 👋
 
 ## My Tech Stack
 
