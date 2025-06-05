@@ -18,7 +18,7 @@
 
 ---
 
-## Connect with me
+## Social
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarushi-tandon-bb6351332" target="_blank">
