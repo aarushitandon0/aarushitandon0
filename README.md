@@ -17,7 +17,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ## 📊 GitHub Stats
 
