@@ -1,8 +1,5 @@
-<h1 align="center">
-  Hi, I am Aarushi Tandon  
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="40px"/>
-</h1>
----
+# Hi, I am Aarushi Tandon ![wave](https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif)
+
 ## My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
