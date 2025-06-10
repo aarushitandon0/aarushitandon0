@@ -1,5 +1,14 @@
-![Terminal Greeting](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<!-- README.md -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F779DC&width=500&center=true&vCenter=true&lines=Heyyy+I'm+Aarushi+Tandon!;Python+%7C+ML+%7C+Streamlit+Wizard;Debugging+life+and+neural+networks+💅" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="250"/>
+</p>
+
+---
 ---
 ## My Tech Stack
 
