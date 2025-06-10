@@ -34,7 +34,7 @@
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=8hl268e2xw711ml2zsfkb3x8o&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/8hl268e2xw711ml2zsfkb3x8o)
+[![Spotify](https://spotifygithubprofile-g3nmjl6px-aarushitandon0s-projects.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/8hl268e2xw711ml2zsfkb3x8o)
 
 
 <!--
