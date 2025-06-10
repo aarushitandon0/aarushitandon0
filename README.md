@@ -1,3 +1,4 @@
+![Terminal Greeting](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ---
 ## My Tech Stack
@@ -35,7 +36,6 @@
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Terminal Greeting](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 Here are some ideas to get you started:
 
