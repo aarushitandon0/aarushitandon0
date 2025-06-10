@@ -1,7 +1,4 @@
-<h1 align="center">
-  Hi, I am Aarushi Tandon  
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.gif" width="35px"/>
-</h1>
+# Hi, I'm Aarushi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## My Tech Stack
 
