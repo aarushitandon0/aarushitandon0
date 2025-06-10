@@ -1,5 +1,10 @@
-## Hey there I am Aarushi Tandon 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Aarushi+Tandon!;CS+Student+%7C+ML+Learner+%7C+Python+Princess🐍;Building+projects+that+actually+slay💅&font=Fira%20Code&center=true&width=500&height=45&color=FF4B4B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pnMGtvY2ViM3hzZHVweWJydWd4dnhycGRjbThlYzU3Zmxnc3pxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6zz6/giphy.gif" width="180" />
+</p>
 ## My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
