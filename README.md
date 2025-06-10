@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Heyy,+I'm+Aarushi+Tandon!;CS+Student+%7C+ML+Learner+%7C+Python+Princess🐍;Building+projects+that+actually+slay💅&font=Fira%20Code&center=true&width=500&height=45&color=FF4B4B&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Heyyy+I'm+Aarushi+Tandon!;ML+%2B+Python+Dev+%2B+Terminal+Girlies+Unite!;Building+neural+networks+and+vibes+💅" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pnMGtvY2ViM3hzZHVweWJydWd4dnhycGRjbThlYzU3Zmxnc3pxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6zz6/giphy.gif" width="180" />
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/I5AqU6YjHg8AAAAC/hacking.gif" width="200"/>
+</div>
+
+---
 ## My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
