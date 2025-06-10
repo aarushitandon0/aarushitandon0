@@ -28,13 +28,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aarushi-tandon-bb6351332" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /
   </a>
 </p>
 
 ### 🎧 Now Playing on Spotify
 
-[![Spotify](https://spotifygithubprofile-g3nmjl6px-aarushitandon0s-projects.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/8hl268e2xw711ml2zsfkb3x8o)
+
+[![Spotify](https://spotify-widget-bbg.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/8hl268e2xw711ml2zsfkb3x8o)
+
 
 
 
