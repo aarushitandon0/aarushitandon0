@@ -1,10 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Heyyy+I'm+Aarushi+Tandon!;ML+%2B+Python+Dev+%2B+Terminal+Girlies+Unite!;Building+neural+networks+and+vibes+💅" alt="Typing SVG" />
-</h1>
-
-<div align="center">
-  <img src="https://media.tenor.com/I5AqU6YjHg8AAAAC/hacking.gif" width="200"/>
-</div>
 
 ---
 ## My Tech Stack
@@ -41,6 +34,8 @@
 </p>
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Terminal Greeting](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 Here are some ideas to get you started:
 
