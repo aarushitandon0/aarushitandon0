@@ -18,7 +18,6 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge&logo=OpenAI&logoColor=white)
 
 ## 📊 GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=AarushiTandon&color=blue)
 
 ![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarushitandon0&theme=radical)](https://git.io/streak-stats)
