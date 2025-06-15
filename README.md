@@ -1,4 +1,6 @@
 # Hi, I'm Aarushi Tandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+
 ## My Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
