@@ -1,4 +1,4 @@
-# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://i.pinimg.com/736x/85/3a/05/853a050a5b4c20b6cdcc960318572fd5.jpg" width="25">
+# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://i.pinimg.com/736x/85/3a/05/853a050a5b4c20b6cdcc960318572fd5.jpg" width="35">
 
 
 
