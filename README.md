@@ -23,7 +23,7 @@
 </p>
 
 
-<img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="150"> <img src="https://i.pinimg.com/originals/23/af/d9/23afd9b17f3e3818eeb46eb23ea6a8a9" width="150"> 
+<img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="150"> <img src="https://i.pinimg.com/originals/23/af/d9/23afd9b17f3e3818eeb46eb23ea6a8a9.gif" width="150"> 
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
