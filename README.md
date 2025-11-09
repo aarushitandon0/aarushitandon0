@@ -1,4 +1,4 @@
-# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="50">
+# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="75">
 
 
 ## I mainly work with 
