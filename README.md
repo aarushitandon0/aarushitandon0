@@ -1,4 +1,4 @@
-# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="75">
+# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRzZW04NmpmMjF3c3ZnNHp5Y3p5c2sxZ2I1MTJlNnF4Z3BwMWNsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Rjo1WLyS5LiOg1EdQ/giphy.gif" width="75">
 
 
 ## I mainly work with 
@@ -23,7 +23,7 @@
 </p>
 
 
-
+<img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="150"> <img src="https://media.tenor.com/a1xgJXk8zK0AAAAi/kittyxinhiu.gif" width="150"> 
 
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
