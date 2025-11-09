@@ -1,5 +1,8 @@
-# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://i.pinimg.com/736x/85/3a/05/853a050a5b4c20b6cdcc960318572fd5.jpg" width="35">
+# ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://i.pinimg.com/736x/85/3a/05/853a050a5b4c20b6cdcc960318572fd5.jpg" width="50">
 
+
+## I mainly work with 
+<img src="https://skillicons.dev/icons?i=python,cplusplus,django,flask,streamlit,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,git" alt="Tech Stack" />
 
 
 ## GitHub Stats
