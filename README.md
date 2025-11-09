@@ -4,6 +4,7 @@
 ## I mainly work with 
 <img src="https://skillicons.dev/icons?i=python,cplusplus,django,flask,streamlit,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,git" alt="Tech Stack" />
 
+### I have interest in machine learning, GenAI & backend development ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊ 
 
 ## GitHub Stats
 
@@ -22,7 +23,7 @@
   </a>
 </p>
 
-
+## 
 <img src="https://media1.tenor.com/m/Mu5ivBULfHUAAAAd/dvdhult-original-vid-tiktok.gif" width="150"> <img src="https://i.pinimg.com/originals/23/af/d9/23afd9b17f3e3818eeb46eb23ea6a8a9.gif" width="150"> 
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
