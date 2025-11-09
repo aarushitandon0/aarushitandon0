@@ -4,6 +4,7 @@
 ## I mainly work with 
 <img src="https://skillicons.dev/icons?i=python,cplusplus,django,flask,streamlit,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,git" alt="Tech Stack" />
 
+## 
 ### I have interest in machine learning, GenAI & backend development ˖ ᡣ𐭩 ⊹ ࣪  ౨ৎ˚₊ 
 
 ## GitHub Stats
