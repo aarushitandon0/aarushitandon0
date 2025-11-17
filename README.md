@@ -1,5 +1,6 @@
 # ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ Hello, I'm Aarushi Tandon ‎⋆˖ ࣪ꫂ᭪ ݁₊ ⊹ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRzZW04NmpmMjF3c3ZnNHp5Y3p5c2sxZ2I1MTJlNnF4Z3BwMWNsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Rjo1WLyS5LiOg1EdQ/giphy.gif" width="75">
 
+![Profile Views](https://komarev.com/ghpvc/?username=aarushitandon0&label=Profile%20Views&color=blue&style=flat)
 
 ## I mainly work with 
 <img src="https://skillicons.dev/icons?i=python,cplusplus,django,flask,streamlit,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,git" alt="Tech Stack" />
