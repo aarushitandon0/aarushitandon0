@@ -19,9 +19,11 @@
 ## GitHub Stats
 
 
+![Aarushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushitandon0&layout=compact&theme=radical) 
 
+![](https://komarev.com/ghpvc/?username=aarushitandon0&color=blue)
 ---
 
 ## Socials
