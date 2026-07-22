@@ -2,12 +2,6 @@
  
 ### I’m a Computer Science undergraduate interested in Machine Learning, the architecture of intelligent systems and backend system design.
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushitandon0&layout=compact&theme=tokyonight)
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aarushitandon0&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarushitandon0&show_icons=true&theme=tokyonight)
-s
 
 ## Socials
 
