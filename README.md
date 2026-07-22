@@ -4,8 +4,9 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushitandon0&layout=compact&theme=radical) 
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushitandon0&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## Socials
 
