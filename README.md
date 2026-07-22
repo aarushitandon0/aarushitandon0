@@ -4,8 +4,6 @@
 
 ## Tech stack
 
-## Engineering Stack
-
 ### AI / ML & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/Python-2B2D42?style=for-the-badge&logo=python&logoColor=F8F8F2" />
