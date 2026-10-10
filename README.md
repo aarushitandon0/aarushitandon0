@@ -64,6 +64,8 @@
     src="https://raw.githubusercontent.com/aarushitandon0/aarushitandon0/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8hl268e2xw711ml2zsfkb3x8o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **aarushitandon0/aarushitandon0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
