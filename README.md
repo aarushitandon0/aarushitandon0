@@ -72,3 +72,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8hl268e2xw711ml2zsfkb3x8o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=aarushitandon0&color=blueviolet)
