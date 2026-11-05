@@ -73,4 +73,3 @@
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=aarushitandon0&color=blueviolet)
